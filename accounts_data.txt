@@ -1,0 +1,79 @@
+╔════════════════════════════════════════════════════════════════════╗
+║           ROYAL BANK OF INDIA - ACCOUNT DATABASE                  ║
+║                 Confidential Information                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+ACCOUNT_START
+Account Number: RBI0727835283
+Account Holder: Siya Agrawal
+Date of Birth: 05-09-2006
+Gender: Female
+Phone: 9130029841
+Email: siya.a@somaiya.edu
+Address: mumbai
+Aadhaar: 123456789123
+PAN: ABCDE1234F
+Password: 123456
+Balance: 50000.0
+Account Type: Savings Account
+Date Created: 02-11-2025
+Transaction History: 02-11-2025 15:40:28 - Account opened with initial balance: Rs.50000.0
+ACCOUNT_END
+========================================
+ACCOUNT_START
+Account Number: RBI0783101310
+Account Holder: Siya Agrawal
+Date of Birth: 05-09-2006
+Gender: Female
+Phone: 9874563210
+Email: siya.agra@somaiya.edu
+Address: mumbai
+Aadhaar: 569874123789
+PAN: ABCDE1234G
+Password: 456789
+Balance: 5000.0
+Account Type: Savings Account
+Date Created: 02-11-2025
+Transaction History: 02-11-2025 22:55:46 - Account opened with initial balance: Rs.5000.0
+ACCOUNT_END
+========================================
+ACCOUNT_START
+Account Number: RBI0465415713
+Account Holder: SAM SHARMA
+Date of Birth: 01-13-2006
+Gender: Female
+Phone: 7894561230
+Email: SAM.A@SOMAIYA.EDU
+Address: MUMBAI
+Aadhaar: 123456789123
+PAN: ABCDF1234G
+Password: 456123
+Balance: 51845.0
+Account Type: Savings Account
+Date Created: 03-11-2025
+Transaction History: 03-11-2025 16:23:31 - Account opened with initial balance: Rs.50000.0||03-11-2025 16:25:26 - Deposited: Rs.2345.00 | Balance: Rs.52345.00||03-11-2025 16:27:19 - Withdrawn: Rs.500.00 | Balance: Rs.51845.00
+ACCOUNT_END
+========================================
+ACCOUNT_START
+Account Number: RBI0579760351
+Account Holder: Siya Agrawal
+Date of Birth: 01-05-2006
+Gender: Female
+Phone: 1234567890
+Email: asnkii@gmail.com
+Address: mumbai
+Aadhaar: 789456123789
+PAN: ABCDE1234F
+Password: QWERTY
+Balance: 1000.0
+Account Type: Savings Account
+Date Created: 09-01-2026
+Transaction History: 09-01-2026 11:35:36 - Account opened with initial balance: Rs.1000.0||09-01-2026 11:36:26 - Deposited: Rs.1000.00 | Balance: Rs.2000.00||09-01-2026 11:36:31 - Withdrawn: Rs.1000.00 | Balance: Rs.1000.00
+ACCOUNT_END
+========================================
+
+
+═══════════════════════════════════════════════════════════════════════
+Total Accounts: 4
+Last Updated: 09-01-2026 11:36:31
+═══════════════════════════════════════════════════════════════════════
